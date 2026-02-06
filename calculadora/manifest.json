@@ -7,8 +7,9 @@
   "author": "Marcus",
   "description": "Widget de cálculo dNBR via GP Service",
   "dependency": [
-    "jimu-arcgis"
-  ],
+  "jimu-core",
+  "jimu-ui"
+],
   "copyright": "",
   "license": "",
   "properties": {
