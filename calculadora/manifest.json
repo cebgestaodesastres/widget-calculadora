@@ -1,0 +1,23 @@
+{
+  "name": "calculadora",
+  "label": "Calculadora",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.10.0",
+  "author": "Marcus",
+  "description": "Widget de cálculo dNBR via GP Service",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasSettingPage": false
+  },
+  "translatedLocales": [],
+  "defaultSize": {
+    "width": 300,
+    "height": 200
+  },
+  "useMapWidget": false
+}
